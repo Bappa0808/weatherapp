@@ -1,0 +1,28 @@
+.Nav__main{
+    display: flex;
+    justify-items: center;
+
+}
+
+.dot {
+    height: 4px;
+    width: 4px;
+    background-color: #b02828;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 2px;
+    margin: 1px;
+  }
+ .Nav__text{
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+
+  }
+  .beta{
+    background-color: rgb(127, 128, 130);
+    color: black;
+    height: 20px;
+    border-radius: 5%;
+    margin: 4px;
+  }

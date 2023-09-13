@@ -1,0 +1,29 @@
+.h1{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 80px;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+}
+.body__input{
+    text-align: center;
+    justify-content: space-between;
+}
+.input{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 30px;
+    width: 20rem;
+    margin-top: 100px;
+}
+.button{
+    height: 34px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: orangered;
+    color: aliceblue;
+    cursor: pointer;
+
+}
